@@ -58,5 +58,30 @@ export const libros = [
     imagen: "/imgTerror/Carrie.webp",
     audio: "/audio/terror2.mp3"
   },
+  {
+    id: 203,
+    titulo: "Frankenstein",
+    autor: "Mary Shelley",
+    genero: "Terror",
+    imagen: "/imgTerror/Frankenstein.webp",
+    audio: "/audio/terror3.mp3"
+  },
+  {
+    id: 204,
+    titulo: "Drácula",
+    autor: "Bram Stoker",
+    genero: "Terror",
+    imagen: "/imgTerror/Dracula.webp",
+    audio: "/audio/terror4.mp3"
+  },
+  {
+    id: 205,
+    titulo: "La Casa",
+    autor: "Autor desconocido",
+    genero: "Terror",
+    imagen: "/imgTerror/LaCasa.webp",
+    audio: "/audio/terror5.mp3"
+  },
+  
 
 ];

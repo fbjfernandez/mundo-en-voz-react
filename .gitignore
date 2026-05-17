@@ -2,7 +2,7 @@
 node_modules
 /dist
 
-# Archivos locales pesados (¡No queremos audios de 50MB en GitHub!)
+# Archivos locales pesados 
 public/audio/*.mp3
 
 # Entorno y logs
