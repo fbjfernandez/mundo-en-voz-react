@@ -1,0 +1,13 @@
+# Dependencias
+node_modules
+/dist
+
+# Archivos locales pesados (¡No queremos audios de 50MB en GitHub!)
+public/audio/*.mp3
+
+# Entorno y logs
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
