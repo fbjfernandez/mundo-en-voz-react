@@ -26,6 +26,8 @@ A diferencia de un catálogo web tradicional, la interfaz se construyó prioriza
 | Swiper.js       | Carruseles interactivos                        |
 | HTML5 Audio API | Reproducción multimedia                        |
 
+## 🌐 Demo en Producción
+https://mundo-en-voz-react.vercel.app
 
 ## 🏗️ Arquitectura General del Sistema
 
@@ -61,5 +63,3 @@ A diferencia de un catálogo web tradicional, la interfaz se construyó prioriza
 │  • Colecciones de libros y usuarios     │ │  • Streaming multimedia (MP3)           │
 │  • Persistencia de metadatos            │ │  • Almacenamiento de portadas           │
 └─────────────────────────────────────────┘ └─────────────────────────────────────────┘
-## 🌐 Demo en Producción
-https://mundo-en-voz-react.vercel.app
